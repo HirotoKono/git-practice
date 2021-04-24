@@ -1,4 +1,1 @@
 hoge
-hoge
-hoge
-hoge
