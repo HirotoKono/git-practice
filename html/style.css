@@ -1,0 +1,28 @@
+body {
+    background-color: beige;
+    text-decoration: none;
+}
+
+h1 { 
+    font-size: 3em;
+    font-family: sans-serif;
+    color:chartreuse;
+}
+a {
+    color:crimson;
+    
+}
+.hyroto a{
+    color:purple;
+}
+
+div {
+    flex:auto;
+    flex-direction:column;
+    margin-top: 5%;
+}
+
+img {
+    max-width: 25%;
+    max-height: 25%;
+}
